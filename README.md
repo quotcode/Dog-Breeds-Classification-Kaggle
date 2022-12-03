@@ -1,6 +1,6 @@
 # Dog-Breeds-Classification-Kaggle
 
-The following code repository consists of an ongoing project based on Dogs Breeds Classification.
+The following code repository consists of the project on Dogs Breeds Classification.
 
 1. Dataset : 
 
